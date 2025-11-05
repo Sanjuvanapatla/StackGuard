@@ -2,9 +2,9 @@
 
 A secure frontend application built with **React (Vite)** and **Tailwind CSS**, implementing a complete authentication and configuration flow inspired by the StackGuard design.
 
-Deployed on **Vercel** → 🔗 [Live Demo](https://stackguard-frontend-yourname.vercel.app)
+Deployed on **Vercel** → 🔗 [Live Demo](https://stack-guard-pearl.vercel.app/)
 
-GitHub Repository → 🔗 [View Source](https://github.com/yourusername/stackguard-frontend)
+GitHub Repository → 🔗 [View Source](https://github.com/Sanjuvanapatla/StackGuard.git)
 
 ---
 
@@ -82,7 +82,7 @@ stackguard-frontend/
 
 ### 🪜 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/stackguard-frontend.git
+git clone https://github.com/Sanjuvanapatla/StackGuard.git
 cd stackguard-frontend
 
 🪜 2. Install dependencies
